@@ -1,0 +1,13 @@
+[2023-11-17 19:01:34,850]  224 werkzeug - WARNING -  * Debugger is active!
+[2023-11-17 19:01:34,850]  224 werkzeug - INFO -  * Debugger PIN: 333-707-978
+[2023-11-17 19:01:40,381]  133 root - INFO - Dataframe Gathered
+[2023-11-17 19:01:40,443]  22 root - INFO - done prediction
+[2023-11-17 19:01:40,443]  224 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:01:40] "POST /predict HTTP/1.1" 200 -
+[2023-11-17 19:05:21,921]  133 root - INFO - Dataframe Gathered
+[2023-11-17 19:05:21,946]  22 root - INFO - done prediction
+[2023-11-17 19:05:21,953]  224 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:05:21] "POST /predict HTTP/1.1" 200 -
+[2023-11-17 19:05:47,777]  133 root - INFO - Dataframe Gathered
+[2023-11-17 19:05:47,793]  22 root - INFO - done prediction
+[2023-11-17 19:05:47,810]  224 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:05:47] "POST /predict HTTP/1.1" 200 -
+[2023-11-17 19:05:59,976]  224 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:05:59] "GET /predict HTTP/1.1" 200 -
+[2023-11-17 19:06:23,173]  224 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:06:23] "GET / HTTP/1.1" 200 -
